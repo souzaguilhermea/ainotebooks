@@ -1,2 +1,2 @@
-# pnotebooks
+# Python Notebooks
 Python (Jupyter) Notebooks
